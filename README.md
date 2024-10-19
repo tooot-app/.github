@@ -1,1 +1,1 @@
-# .github
+Mastodon and fediverse have matured since the first wide adoption of Mastodon. Due to the increasing day job workload, unfortunately @xmflsct cannot maintain tooot app anymore. All current services will stay functional until further notice. Thank you all for the support in the past years!
